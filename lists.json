@@ -2,7 +2,7 @@
     "product":[
         {
             "name": "Bit Form",
-            "description": "Form builder for wordpress.",
+            "description": "WordPress Drag & Drop Contact Form, Payment Form Builder.",
             "slug": "bit-form",
             "url": "https://wordpress.org/plugins/bit-form/",
             "image": "https://ps.w.org/bit-form/assets/icon.svg?rev=2377650"
@@ -16,21 +16,21 @@
         },
         {
             "name": "Bit Assist",
-            "description": "Assist for wordpress.",
+            "description": "Connect your all support assistant in a single button.",
             "slug": "bit-assist",
             "url": "https://wordpress.org/plugins/bit-assist/",
             "image": "https://ps.w.org/bit-assist/assets/icon.svg?rev=2814206"
         },
         {
             "name": "Bit File Manager",
-            "description": "File manager for wordpress.",
+            "description": "100% free file manager for WordPress.",
             "slug": "file-manager",
             "url": "https://wordpress.org/plugins/file-manager/",
             "image": "https://ps.w.org/file-manager/assets/icon-128x128.png?rev=2711366"
         },
         {
             "name": "Bit SMTP",
-            "description": "SMTP for wordpress.",
+            "description": "Best SMTP plugin for WordPress.",
             "slug": "bit-smtp",
             "url": "https://wordpress.org/plugins/bit-smtp/",
             "image": "https://ps.w.org/bit-smtp/assets/icon.svg?rev=2457811"
